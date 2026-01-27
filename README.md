@@ -58,4 +58,7 @@ https://caraccidentsanalysisdashboard.netlify.app/
 📉 Productivity, cost & scenario analysis  
 🌍 Optional carbon footprint insights
 
-> *Helping companies see the future impact of today’s decisions.*
+---
+
+🚀LinkedIn : https://www.linkedin.com/in/bade-su-%C3%B6zt%C3%BCrk-45a998382/ 
+🚀LeetCode : https://leetcode.com/u/bade_oz/
