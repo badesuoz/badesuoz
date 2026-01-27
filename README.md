@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Bade Su
 
-<!--
-**badesuoz/badesuoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**  
+💻 Interested in **AI, Machine Learning, Decision Support Systems & Web Dashboards**  
+🚀 Turning ideas into real, data-driven projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I am a software engineering student who enjoys working on **data-focused projects**,  
+**AI-powered systems**, and **websites**.
+
+I like breaking complex problems into simple, logical solutions and building systems that answer the question:
+
+> *“What happens if we make this decision?”*
+
+Currently, I focus on:
+- 📊 Data analysis & visualization  
+- 🤖 AI-assisted decision support systems  
+- 🌱 Sustainability & efficiency-oriented tech
+- 🤖 Solving LeetCode problems 
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- C
+- Java
+- SQL
+
+**Frontend**
+- HTML, CSS
+- Basic React
+- 
+
+**Tools**
+- Git & GitHub
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🚗 Car Accidents Analysis Dashboard
+📊 Interactive dashboard analyzing traffic accidents  
+🌍 Global & Turkey-focused insights  
+📈 Visualized with charts & maps
+
+🔗 **Live Demo:**  
+https://caraccidentsanalysisdashboard.netlify.app/
+
+---
+
+🤖 AI-based **Decision Support System for companies**  
+📉 Productivity, cost & scenario analysis  
+🌍 Optional carbon footprint insights
+
+> *Helping companies see the future impact of today’s decisions.*
