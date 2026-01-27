@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I am a software engineering student who enjoys working on **data-focused projects**,  
+I am a 3rd year software engineering student who enjoys working on **data-focused projects**,  
 **AI-powered systems**, and **websites**.
 
 I like breaking complex problems into simple, logical solutions and building systems that answer the question:
