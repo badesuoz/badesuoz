@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bade Su
 
 🎓 **Software Engineering Student**  
-💻 Interested in **AI, Machine Learning, Decision Support Systems & Web Dashboards**  
+💻 Interested in **AI, Machine Learning, Decision Support Systems & Web Systems**  
 🚀 Turning ideas into real, data-driven projects
 
 ---
