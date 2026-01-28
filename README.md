@@ -18,9 +18,8 @@ I like breaking complex problems into simple, logical solutions and building sys
 Currently, I focus on:
 - 📊 Data analysis & visualization  
 - 🤖 AI-assisted decision support systems  
-- 🌱 Sustainability & efficiency-oriented tech
 - 🤖 Solving LeetCode problems 
-
+- 🤖 Web-based systems
 ---
 
 ## 🛠️ Tech Stack
@@ -34,7 +33,6 @@ Currently, I focus on:
 **Frontend**
 - HTML, CSS
 - Basic React
-- 
 
 **Tools**
 - Git & GitHub
@@ -54,9 +52,8 @@ https://caraccidentsanalysisdashboard.netlify.app/
 
 ---
 
-🤖 AI-based **Decision Support System for companies**  
+🤖 AI-based **Decision Support Systems**  
 📉 Productivity, cost & scenario analysis  
-🌍 Optional carbon footprint insights
 
 ---
 
