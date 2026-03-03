@@ -50,13 +50,21 @@ Currently, I focus on:
 🔗 **Live Demo:**  
 https://caraccidentsanalysisdashboard.netlify.app/
 
-### 📶 Turkcell Smart Analytics Platform
-📊 AI-powered telecom data analysis & decision support system
-🌍 District-based risk & behavior modeling
-🧠 Machine Learning (XGBoost) + Interactive Dashboard
-🗺️ Geo-based visualization with heatmaps
+### 📊 Turkcell Smart Analytics (SmartCity) Platform
 
-🔗 **GitHub Repo:**
+📡 AI-powered telecom data intelligence & decision support system  
+🌍 District-level behavioral & risk modeling  
+🧠 Machine Learning (XGBoost + feature engineering)  
+📊 Interactive dashboard with dynamic charts  
+🗺️ Geo-based visualization using heatmaps  
+
+⚙️ Real-world telecom dataset simulation  
+📈 Predictive risk scoring engine  
+🔍 SHAP-based model interpretability  
+📂 Structured data pipeline (CSV → ML Model → API → Dashboard)  
+🌐 Istanbul 39 districts geo-analytics integration
+
+🔗 GitHub Repo:
 https://github.com/ahmetozgunarkiner/Turkcell_AI_Project
 
 ---
