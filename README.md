@@ -50,10 +50,15 @@ Currently, I focus on:
 🔗 **Live Demo:**  
 https://caraccidentsanalysisdashboard.netlify.app/
 
----
+### 📶 Turkcell Smart Analytics Platform
 
-🤖 AI-based **Decision Support Systems**  
-📉 Productivity, cost & scenario analysis  
+📊 AI-powered telecom data analysis & decision support system
+🌍 District-based risk & behavior modeling
+🧠 Machine Learning (XGBoost) + Interactive Dashboard
+🗺️ Geo-based visualization with heatmaps
+
+🔗 **GitHub Repo:**
+https://github.com/ahmetozgunarkiner/Turkcell_AI_Project
 
 ---
 
