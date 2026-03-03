@@ -51,7 +51,6 @@ Currently, I focus on:
 https://caraccidentsanalysisdashboard.netlify.app/
 
 ### 📶 Turkcell Smart Analytics Platform
-
 📊 AI-powered telecom data analysis & decision support system
 🌍 District-based risk & behavior modeling
 🧠 Machine Learning (XGBoost) + Interactive Dashboard
